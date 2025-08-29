@@ -156,6 +156,7 @@ public:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
+SELLO KGOLE
 
 Created as a demonstration of Object-Oriented Programming concepts in C++.
 
